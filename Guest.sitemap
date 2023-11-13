@@ -1,0 +1,81 @@
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="./pages/pagemain.aspx" title="หน้าหลัก"  description="">
+    <siteMapNode url="" title="การจัดการ"  description="" >
+      <siteMapNode url="" title="ข้อมูลผู้ใช้งาน"  description="" >
+        <siteMapNode url="./pages/pageChangePassWord.aspx" title="เปลี่ยนรหัสผ่าน"  description="" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="รายการข้อมูล"  description="" >
+      <siteMapNode url="" title="ข้อมูลฝน"  description="" >
+        <siteMapNode url="./pages/pageTransRain.aspx" title="รายการข้อมูลน้ำฝนย้อนหลัง 24ชม. รายสถานี"  description="" />
+        <siteMapNode url="./pages/pageSearchRain.aspx" title="ค้นหาปริมาณน้ำฝน"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="ข้อมูลน้ำท่วมถนน"  description="" >
+        <siteMapNode url="./pages/pageTransFlood.aspx" title="รายการข้อมูลระดับน้ำท่วมถนนย้อนหลัง 24ชม. รายสถานี"  description="" />
+        <siteMapNode url="./pages/pageSearchFlood.aspx" title="ค้นหาข้อมูลระดับน้ำท่วมถนน"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="ข้อมูลน้ำในคลอง"  description="" >
+        <siteMapNode url="./pages/pageTransCanal.aspx" title="รายการข้อมูลระดับน้ำในคลองย้อนหลัง 24ชม. รายสถานี"  description="" />
+        <siteMapNode url="./pages/pageSearchCanal.aspx" title="ค้นหาข้อมูลระดับน้ำในคลอง"  description="" />
+      </siteMapNode>
+     
+      <siteMapNode url="" title="ข้อมูลในแม่น้ำเจ้าพระยา"  description="" >
+        <siteMapNode url="./pages/pageTransCpy.aspx" title="รายการข้อมูลระดับน้ำในแม่น้ำเจ้าพระยาย้อนหลัง 24ชม. รายสถานี"  description="" />
+        <siteMapNode url="./pages/pageSearchCpy.aspx" title="ค้นหาข้อมูลระดับน้ำในแม่น้ำเจ้าพระยา"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="ข้อมูลเขื่อน"  description="" >
+        <siteMapNode url="./pages/pageTransDam.aspx" title="รายการข้อมูลเขื่อนย้อนหลัง 24ชม. รายสถานี"  description="" />
+        <siteMapNode url="./pages/pageSearchDam.aspx" title="ค้นหาข้อมูลเขื่อน"  description="" />
+      </siteMapNode>
+ 
+    </siteMapNode>
+    <siteMapNode url="" title="ข้อมูลสถิติ"  description="" >
+      <siteMapNode url="./pages/pageStatRain.aspx" title="ข้อมูลฝน"  description="" />
+      <siteMapNode url="./pages/pageStatFlood.aspx" title="ข้อมูลน้ำท่วมถนน"  description="" />
+      <siteMapNode url="./pages/pageStatCanal.aspx" title="ข้อมูลน้ำในคลอง"  description="" />
+      <siteMapNode url="./pages/pageStatCpy.aspx" title="ข้อมูลในแม่น้ำเจ้าพระยา"  description="" />
+      <siteMapNode url="./pages/pageStatDam.aspx" title="ข้อมูลเขื่อน"  description="" />
+
+    </siteMapNode>
+    <siteMapNode url="" title="รายงาน"  description="" >
+      <siteMapNode url="" title="ข้อมูลฝน"  description="" >
+        <siteMapNode url="./pages/pageRptRainDay.aspx" title="รายงานปริมาณน้ำฝนรายวัน"  description="" />
+        <siteMapNode url="./pages/pageRptRainMonth.aspx" title="รายงานปริมาณน้ำฝนรายเดือน"  description="" />
+        <siteMapNode url="./pages/pageRptRainYear.aspx" title="รายงานปริมาณน้ำฝนรายปี"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="ข้อมูลน้ำท่วมถนน"  description="" >
+        <siteMapNode url="./pages/pageRptFloodMinute.aspx" title="รายงานระดับน้ำราย15นาที"  description="" />
+        <siteMapNode url="./pages/pageRptFloodDay.aspx" title="รายงานระดับน้ำรายวัน"  description="" />
+        <siteMapNode url="./pages/pageRptFloodMonth.aspx" title="รายงานระดับน้ำรายเดือน"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="ข้อมูลน้ำในคลอง"  description="" >
+        <siteMapNode url="./pages/pageRptCanalMinute.aspx" title="รายงานระดับน้ำในคลองราย15นาที"  description="" />
+        <siteMapNode url="./pages/pageRptCanalHour.aspx" title="รายงานระดับน้ำในคลองรายชั่วโมง"  description="" />
+        <siteMapNode url="./pages/pageRptCanalDay.aspx" title="รายงานระดับน้ำในคลองรายวัน"  description="" />
+        <siteMapNode url="./pages/pageRptCanalMonth.aspx" title="รายงานระดับน้ำในคลองรายเดือน"  description="" />
+        <siteMapNode url="./pages/pageRptCanalYear.aspx" title="รายงานระดับน้ำในคลองรายปี"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="ข้อมูลระดับน้ำในแม่น้ำเจ้าพระยา"  description="" >
+        <siteMapNode url="./pages/pageRptCpyMinute.aspx" title="รายงานระดับน้ำในแม่น้ำเจ้าพระยาราย15นาที"  description="" />
+        <siteMapNode url="./pages/pageRptCpyHour.aspx" title="รายงานระดับน้ำในแม่น้ำเจ้าพระยารายชั่วโมง"  description="" />
+        <siteMapNode url="./pages/pageRptCpyDay.aspx" title="รายงานระดับน้ำในแม่น้ำเจ้าพระยารายวัน"  description="" />
+        <siteMapNode url="./pages/pageRptCpyMonth.aspx" title="รายงานระดับน้ำในแม่น้ำเจ้าพระยารายเดือน"  description="" />
+        <siteMapNode url="./pages/pageRptCpyYear.aspx" title="รายงานระดับน้ำในแม่น้ำเจ้าพระยารายปี"  description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="ข้อมูลเขื่อน"  description="" >
+        <siteMapNode url="./pages/pageRptDamDay.aspx" title="รายงานข้อมูลเขื่อนรายวัน"  description="" />
+        <siteMapNode url="./pages/pageRptDamMonth.aspx" title="รายงานข้อมูลเขื่อนรายเดือน"  description="" />
+        <siteMapNode url="./pages/pageRptDamYear.aspx" title="รายงานข้อมูลเขื่อนรายปี"  description="" />
+      </siteMapNode>
+      <siteMapNode url="./pages/pageRptForecastList.aspx" title="ข้อมูลพยากรณ์อากาศและสถานการณ์น้ำ"  description="" />
+      <siteMapNode url="./pages/pageRptEvenDailyList.aspx" title="ข้อมูลสรุปเหตุการณ์ประจำวัน"  description="" />
+      <siteMapNode url="./pages/pageRptFloodSupportList.aspx" title="ข้อมูลการป้องกันและแก้ไขปัญหาน้ำท่วม"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="การแจ้งเตือนภัย"  description="" >
+      <siteMapNode url="" title="รายการข้อมูลการแจ้งเตือนภัย"  description="" />
+      <siteMapNode url="" title="รายละเอียดการแจ้งเตือนภัย"  description="" />
+    </siteMapNode>
+    <siteMapNode url="./pages/pageWeather.aspx" title="รายงานสภาวะอากาศ" description="" />
+    <siteMapNode url="./pages/pageSiteMap.aspx" title="แผนผังเวปไซด์"  description="" />
+  </siteMapNode>
+</siteMap>

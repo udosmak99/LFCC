@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="./pages/pagemain.aspx" title="หน้าหลัก"  description="">
+    <siteMapNode url="" title="การจัดการ"  description="" >
+      <siteMapNode url="./pages/pageUserList.aspx" title="ข้อมูลผู้ใช้งาน"  description="" />
+      <siteMapNode url="" title="แจ้งเตือนภัย"  description="" >
+        <siteMapNode url="./pages/pageAutoAlertList.aspx" title="แจ้งเตือนภัยอัตโนมัติ"  description="" />
+        <siteMapNode url="./pages/pageManualAlertList.aspx" title="ส่งข้อความเตือนภัยแบบกำหนดเอง"  description="" />          
+        <siteMapNode url="./pages/pageAlertWebList.aspx" title="สร้างข้อมูลการแจ้งเตือนภัยสำหรับเวปไซด์"  description="" />          
+      </siteMapNode>
+      <siteMapNode url="" title="การกรอกแบบฟอร์ม"  description="">
+        <siteMapNode url="./pages/pageForecastList.aspx" title="ข้อมูลพยากรณ์อากาศและสถานการณ์น้ำ"  description=""/>
+        <siteMapNode url="./pages/pageEventDailyList.aspx" title="ข้อมูลสรุปเหตุการณ์ประจำวัน"  description=""/>          
+        <siteMapNode url="./pages/pageFloodSupportList.aspx" title="ข้อมูลการป้องกันและแก้ไขปัญหาน้ำท่วม"  description=""/>       
+      </siteMapNode>
+      <siteMapNode url="./pages/pageUploadList.aspx" title="นำเอกสารเข้าระบบ"  description=""/>        
+    </siteMapNode>
+    <siteMapNode url="" title="รายการข้อมูล"  description="" >
+      <siteMapNode url="" title="ข้อมูลฝน"  description="" />
+      <siteMapNode url="" title="ข้อมูลน้ำท่วมถนน"  description="" />
+      <siteMapNode url="" title="ข้อมูลน้ำในคลอง"  description="" />
+      <siteMapNode url="" title="ข้อมูลภาพถ่ายเรดาห์"  description="" />
+      <siteMapNode url="" title="ข้อมูลในแม่น้ำเจ้าพระยา"  description="" />
+      <siteMapNode url="" title="ข้อมูลเขื่อน"  description="" />
+      <siteMapNode url="" title="ข้อมูลสถานีสูบน้ำ"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="ข้อมูลสถิติ"  description="" >
+      <siteMapNode url="" title="ข้อมูลฝน"  description="" />
+      <siteMapNode url="" title="ข้อมูลน้ำท่วมถนน"  description="" />
+      <siteMapNode url="" title="ข้อมูลน้ำในคลอง"  description="" />
+      <siteMapNode url="" title="ข้อมูลในแม่น้ำเจ้าพระยา"  description="" />
+      <siteMapNode url="" title="ข้อมูลเขื่อน"  description="" />
+      <siteMapNode url="" title="ข้อมูลสถานีสูบน้ำ"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="รายงาน"  description="" >
+      <siteMapNode url="./pages/pageForecastAdd.aspx" title="พยากรณ์อากาศและสถานการณ์น้ำ"  description="" />
+      <siteMapNode url="" title="สรุปเหตุการณ์ประจำวัน"  description="" />
+      <siteMapNode url="" title="การป้องกันและแก้ไขปัญหาน้ำท่วม"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="การแจ้งเตือนภัย"  description="" >
+      <siteMapNode url="" title="การแจ้งเตือนภัย sub1"  description="" />
+      <siteMapNode url="" title="การแจ้งเตือนภัย sub 2"  description="" />
+    </siteMapNode>
+    <siteMapNode url="" title="แผนผังเวปไซด์"  description="" >
+      <siteMapNode url="" title="แผนผังเวปไซด์ sub 1"  description="" />
+      <siteMapNode url="" title="แผนผังเวปไซด์ sub 2"  description="" />
+    </siteMapNode>
+   </siteMapNode>
+</siteMap>
